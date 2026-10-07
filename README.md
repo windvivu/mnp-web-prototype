@@ -37,7 +37,7 @@ python3 -m http.server 8000
 
 ## Ghi chú
 
-- Phong cách: hiện đại, chuyên nghiệp — tông xanh navy + xanh lá dược phẩm
+- Phong cách: hiện đại, chuyên nghiệp — tông xanh navy + xanh dương công nghệ
 - Font: Be Vietnam Pro (hỗ trợ đầy đủ tiếng Việt)
 - Responsive: desktop, tablet, mobile
 - Đây là bản prototype tĩnh — form liên hệ chỉ demo phía client
